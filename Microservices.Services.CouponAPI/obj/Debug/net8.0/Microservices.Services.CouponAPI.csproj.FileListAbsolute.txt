@@ -34,3 +34,4 @@ D:\working\personal\programming\projects\microservices\Microservices.Services.Co
 D:\working\personal\programming\projects\microservices\Microservices.Services.CouponAPI\obj\Debug\net8.0\Microservices.Services.CouponAPI.pdb
 D:\working\personal\programming\projects\microservices\Microservices.Services.CouponAPI\obj\Debug\net8.0\Microservices.Services.CouponAPI.genruntimeconfig.cache
 D:\working\personal\programming\projects\microservices\Microservices.Services.CouponAPI\obj\Debug\net8.0\ref\Microservices.Services.CouponAPI.dll
+D:\working\personal\programming\projects\microservices\Microservices.Services.CouponAPI\obj\Debug\net8.0\Microservices.Services.CouponAPI.sourcelink.json
