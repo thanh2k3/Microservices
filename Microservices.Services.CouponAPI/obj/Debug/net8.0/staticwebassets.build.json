@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZdYq61I6v9CG3nkSBep0/+LBa6AjphwT+70STeflPYQ=",
+  "Source": "Microservices.Services.CouponAPI",
+  "BasePath": "_content/Microservices.Services.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
