@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\working\\personal\\programming\\projects\\microservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D3440BC-B00B-49A7-857C-804DB5175E7C}|Microservices.Services.CouponAPI\\Microservices.Services.CouponAPI.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D3440BC-B00B-49A7-857C-804DB5175E7C}|Microservices.Services.CouponAPI\\Microservices.Services.CouponAPI.csproj|solutionrelative:microservices.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\models\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\models\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3440BC-B00B-49A7-857C-804DB5175E7C}|Microservices.Services.CouponAPI\\Microservices.Services.CouponAPI.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3440BC-B00B-49A7-857C-804DB5175E7C}|Microservices.Services.CouponAPI\\Microservices.Services.CouponAPI.csproj|solutionrelative:microservices.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,15 +50,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CouponAPIController.cs",
-              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "RelativeDocumentMoniker": "Microservices.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "RelativeToolTip": "Microservices.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAswIYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SD.cs",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Utility\\SD.cs",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Utility\\SD.cs",
+              "RelativeToolTip": "Microservices.Web\\Utility\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T06:50:11.185Z",
+              "WhenOpened": "2025-06-04T15:10:36.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestDto.cs",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Models\\RequestDto.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Models\\RequestDto.cs",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Models\\RequestDto.cs",
+              "RelativeToolTip": "Microservices.Web\\Models\\RequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:01:39.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Models\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Models\\ResponseDto.cs",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Models\\ResponseDto.cs",
+              "RelativeToolTip": "Microservices.Web\\Models\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:58:22.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Microservices.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "Microservices.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:58:11.807Z",
               "EditorCaption": ""
             }
           ]
