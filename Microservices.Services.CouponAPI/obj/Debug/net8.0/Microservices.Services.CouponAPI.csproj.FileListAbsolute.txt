@@ -36,7 +36,6 @@ D:\working\personal\programming\projects\microservices\Microservices.Services.Co
 D:\working\personal\programming\projects\microservices\Microservices.Services.CouponAPI\obj\Debug\net8.0\ref\Microservices.Services.CouponAPI.dll
 D:\working\personal\programming\projects\microservices\Microservices.Services.CouponAPI\obj\Debug\net8.0\Microservices.Services.CouponAPI.sourcelink.json
 D:\working\personal\programming\projects\microservices\Microservices.Services.CouponAPI\bin\Debug\net8.0\AutoMapper.dll
-D:\working\personal\programming\projects\microservices\Microservices.Services.CouponAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\working\personal\programming\projects\microservices\Microservices.Services.CouponAPI\bin\Debug\net8.0\Azure.Core.dll
 D:\working\personal\programming\projects\microservices\Microservices.Services.CouponAPI\bin\Debug\net8.0\Azure.Identity.dll
 D:\working\personal\programming\projects\microservices\Microservices.Services.CouponAPI\bin\Debug\net8.0\Humanizer.dll
