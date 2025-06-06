@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "D:\\working\\personal\\programming\\projects\\microservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\models\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\models\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D3440BC-B00B-49A7-857C-804DB5175E7C}|Microservices.Services.CouponAPI\\Microservices.Services.CouponAPI.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D3440BC-B00B-49A7-857C-804DB5175E7C}|Microservices.Services.CouponAPI\\Microservices.Services.CouponAPI.csproj|solutionrelative:microservices.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,55 +66,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SD.cs",
-              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Utility\\SD.cs",
-              "RelativeDocumentMoniker": "Microservices.Web\\Utility\\SD.cs",
-              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Utility\\SD.cs",
-              "RelativeToolTip": "Microservices.Web\\Utility\\SD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:10:36.805Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Microservices.Web\\appsettings.json",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\appsettings.json",
+              "RelativeToolTip": "Microservices.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T02:30:33.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RequestDto.cs",
-              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Models\\RequestDto.cs",
-              "RelativeDocumentMoniker": "Microservices.Web\\Models\\RequestDto.cs",
-              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Models\\RequestDto.cs",
-              "RelativeToolTip": "Microservices.Web\\Models\\RequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Program.cs",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Program.cs",
+              "RelativeToolTip": "Microservices.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T10:01:39.501Z",
+              "WhenOpened": "2025-06-06T02:30:32.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ResponseDto.cs",
-              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Models\\ResponseDto.cs",
-              "RelativeDocumentMoniker": "Microservices.Web\\Models\\ResponseDto.cs",
-              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Models\\ResponseDto.cs",
-              "RelativeToolTip": "Microservices.Web\\Models\\ResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Title": "SD.cs",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Utility\\SD.cs",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Utility\\SD.cs",
+              "RelativeToolTip": "Microservices.Web\\Utility\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T09:58:22.508Z",
+              "WhenOpened": "2025-06-06T02:28:46.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ResponseDto.cs",
-              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
-              "RelativeDocumentMoniker": "Microservices.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
-              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
-              "RelativeToolTip": "Microservices.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Service\\CouponService.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Service\\CouponService.cs",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Service\\CouponService.cs",
+              "RelativeToolTip": "Microservices.Web\\Service\\CouponService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T09:58:11.807Z",
+              "WhenOpened": "2025-06-06T02:25:38.131Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Models\\CouponDto.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Models\\CouponDto.cs",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Models\\CouponDto.cs",
+              "RelativeToolTip": "Microservices.Web\\Models\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:11:59.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Service\\IService\\ICouponService.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Service\\IService\\ICouponService.cs",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Service\\IService\\ICouponService.cs",
+              "RelativeToolTip": "Microservices.Web\\Service\\IService\\ICouponService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:11:13.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Service\\BaseService.cs",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Service\\BaseService.cs",
+              "RelativeToolTip": "Microservices.Web\\Service\\BaseService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwDUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:26:49.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Service\\IService\\IBaseService.cs",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeToolTip": "Microservices.Web\\Service\\IService\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:24:59.2Z"
             }
           ]
         }
