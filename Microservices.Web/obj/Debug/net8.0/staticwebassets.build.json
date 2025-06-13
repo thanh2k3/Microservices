@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sKXmLt/USO4IXokJqRBGSKZdGQXxVktvPwKf8YkiC9E=",
+  "Hash": "7waTC9FPVaL6v/xvAvvR2tdk6he9x2JVhjtmGJC4KgQ=",
   "Source": "Microservices.Web",
   "BasePath": "_content/Microservices.Web",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "qglzkecasi",
-      "Integrity": "aiMWWXvaAWBleqK1ncnA7ovXt/P7wgaWw9y/DStO55E=",
+      "Fingerprint": "q1m0zx98bs",
+      "Integrity": "niZFQ4TVIykpIh+3/J+gfSUYrHGWFi2/CtKkhC+vIpQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Microservices.Web.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "qglzkecasi",
-      "Integrity": "aiMWWXvaAWBleqK1ncnA7ovXt/P7wgaWw9y/DStO55E=",
+      "Fingerprint": "q1m0zx98bs",
+      "Integrity": "niZFQ4TVIykpIh+3/J+gfSUYrHGWFi2/CtKkhC+vIpQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Microservices.Web.bundle.scp.css"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mpyigms19s",
-      "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
+      "Fingerprint": "yx18idqln1",
+      "Integrity": "1kHbuMlY2I0ygrvmu1vjrb0goRROd5a3JglYLW4QZ9E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -1577,7 +1577,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "204136"
+          "Value": "337148"
         },
         {
           "Name": "Content-Type",
@@ -1585,11 +1585,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
+          "Value": "\"1kHbuMlY2I0ygrvmu1vjrb0goRROd5a3JglYLW4QZ9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 09:53:47 GMT"
+          "Value": "Fri, 06 Jun 2025 09:21:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1599,7 +1599,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
+          "Value": "sha256-1kHbuMlY2I0ygrvmu1vjrb0goRROd5a3JglYLW4QZ9E="
         }
       ]
     },
@@ -1846,51 +1846,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 09:53:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mpyigms19s"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
         }
       ]
     },
@@ -2219,6 +2174,51 @@
         {
           "Name": "integrity",
           "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.yx18idqln1.css",
+      "AssetFile": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "337148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1kHbuMlY2I0ygrvmu1vjrb0goRROd5a3JglYLW4QZ9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Jun 2025 09:21:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yx18idqln1"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1kHbuMlY2I0ygrvmu1vjrb0goRROd5a3JglYLW4QZ9E="
         }
       ]
     },
@@ -6251,7 +6251,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "1092"
         },
         {
           "Name": "Content-Type",
@@ -6259,11 +6259,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aiMWWXvaAWBleqK1ncnA7ovXt/P7wgaWw9y/DStO55E=\""
+          "Value": "\"niZFQ4TVIykpIh+3/J+gfSUYrHGWFi2/CtKkhC+vIpQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 15:15:40 GMT"
+          "Value": "Fri, 06 Jun 2025 09:44:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6273,12 +6273,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aiMWWXvaAWBleqK1ncnA7ovXt/P7wgaWw9y/DStO55E="
+          "Value": "sha256-niZFQ4TVIykpIh+3/J+gfSUYrHGWFi2/CtKkhC+vIpQ="
         }
       ]
     },
     {
-      "Route": "Microservices.Web.qglzkecasi.bundle.scp.css",
+      "Route": "Microservices.Web.q1m0zx98bs.bundle.scp.css",
       "AssetFile": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Microservices.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6288,7 +6288,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "1092"
         },
         {
           "Name": "Content-Type",
@@ -6296,11 +6296,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aiMWWXvaAWBleqK1ncnA7ovXt/P7wgaWw9y/DStO55E=\""
+          "Value": "\"niZFQ4TVIykpIh+3/J+gfSUYrHGWFi2/CtKkhC+vIpQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 15:15:40 GMT"
+          "Value": "Fri, 06 Jun 2025 09:44:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6310,7 +6310,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qglzkecasi"
+          "Value": "q1m0zx98bs"
         },
         {
           "Name": "label",
@@ -6318,12 +6318,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aiMWWXvaAWBleqK1ncnA7ovXt/P7wgaWw9y/DStO55E="
+          "Value": "sha256-niZFQ4TVIykpIh+3/J+gfSUYrHGWFi2/CtKkhC+vIpQ="
         }
       ]
     },
     {
-      "Route": "Microservices.Web.qglzkecasi.styles.css",
+      "Route": "Microservices.Web.q1m0zx98bs.styles.css",
       "AssetFile": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Microservices.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6333,7 +6333,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "1092"
         },
         {
           "Name": "Content-Type",
@@ -6341,11 +6341,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aiMWWXvaAWBleqK1ncnA7ovXt/P7wgaWw9y/DStO55E=\""
+          "Value": "\"niZFQ4TVIykpIh+3/J+gfSUYrHGWFi2/CtKkhC+vIpQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 15:15:40 GMT"
+          "Value": "Fri, 06 Jun 2025 09:44:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6355,7 +6355,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qglzkecasi"
+          "Value": "q1m0zx98bs"
         },
         {
           "Name": "label",
@@ -6363,7 +6363,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aiMWWXvaAWBleqK1ncnA7ovXt/P7wgaWw9y/DStO55E="
+          "Value": "sha256-niZFQ4TVIykpIh+3/J+gfSUYrHGWFi2/CtKkhC+vIpQ="
         }
       ]
     },
@@ -6378,7 +6378,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "1092"
         },
         {
           "Name": "Content-Type",
@@ -6386,11 +6386,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aiMWWXvaAWBleqK1ncnA7ovXt/P7wgaWw9y/DStO55E=\""
+          "Value": "\"niZFQ4TVIykpIh+3/J+gfSUYrHGWFi2/CtKkhC+vIpQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Jun 2025 15:15:40 GMT"
+          "Value": "Fri, 06 Jun 2025 09:44:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6400,7 +6400,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aiMWWXvaAWBleqK1ncnA7ovXt/P7wgaWw9y/DStO55E="
+          "Value": "sha256-niZFQ4TVIykpIh+3/J+gfSUYrHGWFi2/CtKkhC+vIpQ="
         }
       ]
     }

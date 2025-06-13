@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/CouponAPI": {
+    "/api/coupon": {
       "get": {
         "tags": [
           "CouponAPI"
@@ -124,15 +124,18 @@
             }
           }
         }
-      },
-      "delete": {
+      }
+    },
+    "/api/coupon/{id}": {
+      "get": {
         "tags": [
           "CouponAPI"
         ],
         "parameters": [
           {
             "name": "id",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "integer",
               "format": "int32"
@@ -161,10 +164,8 @@
             }
           }
         }
-      }
-    },
-    "/api/CouponAPI/{id}": {
-      "get": {
+      },
+      "delete": {
         "tags": [
           "CouponAPI"
         ],
@@ -203,7 +204,7 @@
         }
       }
     },
-    "/api/CouponAPI/GetByCode/{code}": {
+    "/api/coupon/GetByCode/{code}": {
       "get": {
         "tags": [
           "CouponAPI"

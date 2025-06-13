@@ -33,3 +33,6 @@ D:\working\personal\programming\projects\microservices\Microservices.Web\obj\Deb
 D:\working\personal\programming\projects\microservices\Microservices.Web\obj\Debug\net8.0\Microservices.Web.pdb
 D:\working\personal\programming\projects\microservices\Microservices.Web\obj\Debug\net8.0\Microservices.Web.genruntimeconfig.cache
 D:\working\personal\programming\projects\microservices\Microservices.Web\obj\Debug\net8.0\ref\Microservices.Web.dll
+D:\working\personal\programming\projects\microservices\Microservices.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\working\personal\programming\projects\microservices\Microservices.Web\obj\Debug\net8.0\Microservices.Web.csproj.AssemblyReference.cache
+D:\working\personal\programming\projects\microservices\Microservices.Web\obj\Debug\net8.0\Microser.9B827C05.Up2Date
