@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\working\\personal\\programming\\projects\\microservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|d:\\working\\personal\\programming\\projects\\microservices\\microservices.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BD7389B-FCB4-4B48-8E4B-7F957545794E}|Microservices.Web\\Microservices.Web.csproj|solutionrelative:microservices.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Microservices.Web\\Program.cs",
-              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Program.cs",
-              "RelativeToolTip": "Microservices.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T02:20:43.626Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
@@ -60,26 +51,50 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Service\\IService\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Microservices.Web\\Service\\IService\\IAuthService.cs",
-              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Service\\IService\\IAuthService.cs",
-              "RelativeToolTip": "Microservices.Web\\Service\\IService\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Title": "SD.cs",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Utility\\SD.cs",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Utility\\SD.cs",
+              "RelativeToolTip": "Microservices.Web\\Utility\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T08:04:12.161Z"
+              "WhenOpened": "2025-07-11T03:39:11.903Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Service\\AuthService.cs",
-              "RelativeDocumentMoniker": "Microservices.Web\\Service\\AuthService.cs",
-              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Service\\AuthService.cs",
-              "RelativeToolTip": "Microservices.Web\\Service\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAuAAAAAAAAAA==",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Microservices.Web\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Microservices.Web\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T03:29:16.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Microservices.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Microservices.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T02:49:20.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Microservices.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\working\\personal\\programming\\projects\\microservices\\Microservices.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Microservices.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T08:49:11.793Z",
+              "WhenOpened": "2025-07-11T02:37:47.531Z",
               "EditorCaption": ""
             }
           ]
